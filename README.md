@@ -47,9 +47,9 @@ Deborah Magbadelo
 
 ## 📁Repo Contents
 ```
+├── exam-project.png     # Screenshot of the live page
 ├── index.html           # Landing page
 ├── server.js            # Node.js reverse proxy backend
-├── exam-project.png     # Screenshot of the live page
 └── README.md            # This documentation
 ```
 
